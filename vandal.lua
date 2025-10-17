@@ -1,4 +1,5 @@
-﻿local var_0_0 = "admin"
+|23232323
+local var_0_0 = "admin"
 
 ref = {
 	enabled = ui.reference("AA", "Anti-Aimbot angles", "Enabled"),
@@ -1825,3 +1826,4 @@ end)
 client.set_event_callback("predict_command", function(arg_87_0)
 	var_0_93(arg_87_0)
 end)
+
