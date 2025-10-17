@@ -1,4 +1,3 @@
-|23232323
 local var_0_0 = "admin"
 
 ref = {
@@ -1826,4 +1825,5 @@ end)
 client.set_event_callback("predict_command", function(arg_87_0)
 	var_0_93(arg_87_0)
 end)
+
 
